@@ -3,6 +3,8 @@
 ## About Me 
 I am a web developer and designer focused on creating responsive and user-friendly digital experiences. I have experience working with HTML, CSS, and JavaScript, and I am continuing to develop my skills in front-end development. 
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpzemcyeG1vODhtM2Ryd21ucDQ5bXp4NnowMjFvbHJjbHY1MGYxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif 
+
 ## Skills 
 - HTML
 - CSS
