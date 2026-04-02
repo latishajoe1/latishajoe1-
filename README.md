@@ -31,8 +31,8 @@ I am a web developer and designer focused on creating responsive and user-friend
 -	Building real-world projects
 
 ## Contact – 
-Email: ljoe8@asu.edu 
-GitHub Link:  https://github.com/latishajoe1
-LinkedIn: latisha-joe-081965287
+- Email: ljoe8@asu.edu 
+- GitHub Link:  https://github.com/latishajoe1
+- LinkedIn: latisha-joe-081965287
 
 
