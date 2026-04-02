@@ -18,9 +18,9 @@ I am a web developer and designer focused on creating responsive and user-friend
 - Notion
 
 ## Projects 
--	Cat Adoption Website – Single Page Website 
--	Coffee Guide Website – Single Page Website 
--	Animal Shelter Website – Responsive multi-page Website
+-	Cat Adoption Website – (https://latishajoe1.github.io/Cat-Adoption-Website-/) Single Page Website 
+-	Coffee Guide Website – (https://latishajoe1.github.io/Coffee-Guide-Website-/) Single Page Website 
+-	Animal Shelter Website – (https://latishajoe1.github.io/GIT-480-Paws-and-Hearts-Animal-Shelter-/) Responsive multi-page Website
 
 ## Goals / Interests – 
 -	Improving front-end development 
