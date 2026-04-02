@@ -3,7 +3,7 @@
 ## About Me 
 I am a web developer and designer focused on creating responsive and user-friendly digital experiences. I have experience working with HTML, CSS, and JavaScript, and I am continuing to develop my skills in front-end development. 
 
-##Skills 
+## Skills 
 - HTML
 - CSS
 - JavaScript
